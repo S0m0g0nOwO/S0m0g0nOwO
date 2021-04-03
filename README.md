@@ -15,3 +15,5 @@
 ![S0m0g0nOwO's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0m0g0nOwO&show_icons=true&theme=tokyonight)
 
 ![Профиль просмотрен:](https://gpvc.arturio.dev/S0m0g0nOwO)
+
+[![ForTheBadge built-with-JavaScript](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/S0m0g0nOwO/)
